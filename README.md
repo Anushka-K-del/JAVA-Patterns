@@ -1,1 +1,1 @@
-# JAVA-Patterns
+# JAVA-Practise
